@@ -1,0 +1,10 @@
+torch==1.11.0+cu102
+torchvision
+torchaudio
+torch-scatter -f https://data.pyg.org/whl/torch-1.12.1+cu102.html
+torch-sparse -f https://data.pyg.org/whl/torch-1.12.1+cu102.html
+torch-cluster -f https://data.pyg.org/whl/torch-1.12.1+cu102.html
+torch-geometric
+opencv-pythonclus
+intervaltree
+matplotlib

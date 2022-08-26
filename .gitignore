@@ -1,0 +1,7 @@
+dfl-bundesliga-data-shootout
+checkpoints
+processed*
+runs
+venv
+.idea/
+__pycache__/
